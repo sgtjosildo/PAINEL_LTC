@@ -6,7 +6,7 @@ import plotly.express as px
 import time
 
 # 🔑 Substitua pelas suas chaves da Binance
-client = Client(api_key='SUA_API_KEY', api_secret='SUA_API_SECRET')
+client = Client(api_key='UH7lNaLfvQHF96z7kzfkyyYqE0Ky2iUd3HfLzz3YZISUqI9Q7CPaQo03ZaQydugy', api_secret='5PPecfabemqVangDcpW7kAgoS84qHyvh9GM35khFQuhd8KxrA96F2mawr8PhRmLz')
 
 st.title("📊 Painel de Cointegração LTC/BNB em Tempo Real")
 
